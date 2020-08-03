@@ -1,0 +1,3 @@
+# Data-Analysis
+Coronary artery disease (CAD), also known as coronary heart disease (CHD), or simply heart disease, usually involves a reduction in the blood flow due to blockage in the arteries of the heart. The heart disease are usually of the types stable angina, unstable angina, myocardial infarction, and sudden cardiac death. One of the most common symptom is shooting chest pain which may travel to the left shoulder or the arm. In many cases there are no symptoms of a heart disease but some usual symptoms mat include shortness of breath and emotional stress. Mostly the first sign of a heart disease in not clear until a heart attack.
+This notebook visualizes various predictors and their role in determining the heart-attack
